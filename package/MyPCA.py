@@ -3,11 +3,10 @@
 # @Author: Ang Jian Hwee <angjianhwee@gmail.com>
 # @Date:   2023-03-01 14:19:40
 # @Last Modified by:   Ang Jian Hwee <angjianhwee@gmail.com>
-# @Last Modified time: 2023-03-01 16:28:21
+# @Last Modified time: 2023-03-02 15:17:33
 '''
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
 from sklearn.decomposition import PCA
 
 
